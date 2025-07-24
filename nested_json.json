@@ -1,0 +1,180 @@
+[
+    {
+      "user_id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.j@example.com",
+      "address": {
+        "street": "123 Maple St",
+        "city": "Springfield",
+        "zip": "62704"
+      },
+      "orders": [
+        {
+          "order_id": "A100",
+          "amount": 250.0,
+          "items": ["Laptop", "Mouse"]
+        },
+        {
+          "order_id": "A101",
+          "amount": 75.5,
+          "items": ["Keyboard"]
+        }
+      ]
+    },
+    {
+      "user_id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Shelbyville",
+        "zip": "62565"
+      },
+      "orders": []
+    },
+    {
+      "user_id": 3,
+      "name": "Carol Martinez",
+      "email": "carol.m@example.com",
+      "address": {
+        "street": "789 Pine Rd",
+        "city": "Ogdenville",
+        "zip": "60290"
+      },
+      "orders": [
+        {
+          "order_id": "C300",
+          "amount": 150.0,
+          "items": ["Tablet"]
+        }
+      ]
+    },
+    {
+      "user_id": 4,
+      "name": "David Lee",
+      "email": "david.lee@example.com",
+      "address": {
+        "street": "321 Birch Blvd",
+        "city": "North Haverbrook",
+        "zip": "60123"
+      },
+      "orders": [
+        {
+          "order_id": "D200",
+          "amount": 99.99,
+          "items": ["Headphones", "USB-C Cable"]
+        },
+        {
+          "order_id": "D201",
+          "amount": 199.99,
+          "items": ["Monitor"]
+        }
+      ]
+    },
+    {
+      "user_id": 5,
+      "name": "Eva Green",
+      "email": "eva.green@example.com",
+      "address": {
+        "street": "654 Cedar Ln",
+        "city": "Springfield",
+        "zip": "62704"
+      },
+      "orders": []
+    },
+    {
+      "user_id": 6,
+      "name": "Frank White",
+      "email": "frank.w@example.com",
+      "address": {
+        "street": "777 Elm St",
+        "city": "Ogdenville",
+        "zip": "60290"
+      },
+      "orders": [
+        {
+          "order_id": "F600",
+          "amount": 59.99,
+          "items": ["Flash Drive"]
+        }
+      ]
+    },
+    {
+      "user_id": 7,
+      "name": "Grace Kim",
+      "email": "grace.kim@example.com",
+      "address": {
+        "street": "888 Walnut Dr",
+        "city": "Shelbyville",
+        "zip": "62565"
+      },
+      "orders": []
+    },
+    {
+      "user_id": 8,
+      "name": "Henry Adams",
+      "email": "henry.adams@example.com",
+      "address": {
+        "street": "222 Chestnut Way",
+        "city": "North Haverbrook",
+        "zip": "60123"
+      },
+      "orders": [
+        {
+          "order_id": "H800",
+          "amount": 120.0,
+          "items": ["Router"]
+        }
+      ]
+    },
+    {
+      "user_id": 9,
+      "name": "Ivy Brown",
+      "email": "ivy.b@example.com",
+      "address": {
+        "street": "333 Spruce St",
+        "city": "Ogdenville",
+        "zip": "60290"
+      },
+      "orders": [
+        {
+          "order_id": "I900",
+          "amount": 89.99,
+          "items": ["Webcam"]
+        },
+        {
+          "order_id": "I901",
+          "amount": 49.99,
+          "items": ["Microphone"]
+        }
+      ]
+    },
+    {
+      "user_id": 10,
+      "name": "Jackie Chan",
+      "email": "jackie.c@example.com",
+      "address": {
+        "street": "444 Ash St",
+        "city": "Springfield",
+        "zip": "62704"
+      },
+      "orders": []
+    },
+    {
+      "user_id": 11,
+      "name": "Karen Davis",
+      "email": "karen.d@example.com",
+      "address": {
+        "street": "555 Poplar Pl",
+        "city": "North Haverbrook",
+        "zip": "60123"
+      },
+      "orders": [
+        {
+          "order_id": "K1100",
+          "amount": 300.0,
+          "items": ["Smartphone"]
+        }
+      ]
+    }
+]
